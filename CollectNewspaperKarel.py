@@ -14,8 +14,11 @@ from karel.stanfordkarel import *
 
 def main():
     """
-    TODO:
+    Pre-condition:
+    Post-condition: 
     """
+    karel_go_out()
+    karel_go_home()
 
 
 # DO NOT EDIT CODE BELOW THIS LINE #
